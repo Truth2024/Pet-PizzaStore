@@ -1,0 +1,30 @@
+.list {
+  display: flex;
+  gap: 15px;
+
+  li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    color: #fe5f1e;
+    border: 1px solid #fe5f1e;
+    opacity: 1;
+    transition: all 0.3s ease-in-out;
+    &:hover:not(.select) {
+      background-color: #fe5f1e;
+      color: #fff;
+    }
+    &.hidden {
+      opacity: 0;
+      visibility: hidden;
+    }
+  }
+  .select {
+    border-color: #282828;
+    background-color: #282828;
+    color: #fff;
+  }
+}

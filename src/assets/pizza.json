@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg",
+    "name": "Бургер-пицца",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 803,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6175c10773bfe36e56d48df7e3.avif",
+    "name": "Жюльен",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 245,
+    "category": 1,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/019591b13a1a724b90092c16d9b1c05a.avif",
+    "name": "Карбонара",
+    "types": [0, 1],
+    "sizes": [26, 30],
+    "price": 355,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6108e3a1c9952cd3a7f39a4d02.avif",
+    "name": "Мясная",
+    "types": [0, 1],
+    "sizes": [26, 30],
+    "price": 355,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/019589a573477186898528944fd881a2.avif",
+    "name": "Песто",
+    "types": [0, 1],
+    "sizes": [26, 30],
+    "price": 355,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/019591a8006370038e0a9fb3e94925d1.avif",
+    "name": "Додо",
+    "types": [0, 1],
+    "sizes": [26, 30],
+    "price": 355,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6149eb101d8727573088fa2eff.avif",
+    "name": "Диабло",
+    "types": [0, 1],
+    "sizes": [26, 30],
+    "price": 355,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://media.dodostatic.net/image/r:292x292/11ee7d6150d498419e133df19945a00d.avif",
+    "name": "Барбекю",
+    "types": [0, 1],
+    "sizes": [26, 30],
+    "price": 355,
+    "category": 0,
+    "rating": 5
+  }
+]

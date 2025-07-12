@@ -1,0 +1,9 @@
+.arrowIcon {
+  transition: transform 0.3s ease;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.rotated {
+  transform: rotate(180deg);
+}
