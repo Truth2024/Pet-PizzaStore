@@ -1,7 +1,19 @@
 # 📝 Pet Pizza Store (React + TypeScript + Webpack)
 
-Магазин кроссовок, созданный с использованием современных библиотек для удобного и быстрого интерфейса.
-**React**, **TypeScript** и **Webpack**.
+
+<div align="center">
+    <p><strong>Магазин кроссовок, созданный с использованием современных библиотек для удобного и быстрого интерфейса..</strong></p>
+  <table style="border: 2px solid #4a86e8; border-radius: 8px; padding: 10px">
+    <tr>
+      <td>
+        <img src="https://github.com/Truth2024/Pet-PizzaStore/blob/main/src/assets/pizza.png" 
+             alt="Pet Pizza" 
+             style="width: 100%; max-width: 100%; height: auto"/>
+      </td>
+    </tr>
+  </table>
+  <p><strong>React</strong>, <strong>TypeScript</strong> и <strong>Vite</strong></p>
+</div>
 
 ## 🚀 Возможности
 
